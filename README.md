@@ -50,11 +50,10 @@ youtube/
 │   │   └── utils/     # Utility functions
 │   └── public/        # Static files
 │
-└── backend/           # Python backend
-    ├── api/          # API endpoints
-    ├── models/       # Data models
-    ├── services/     # Business logic
-    └── utils/        # Utility functions
+└── api/           # Python api processing
+    ├── main.py        # API creating
+    ├── youtube_extractor.py # Functs processing       
+ 
 ```
 
 ## Các trang chính
